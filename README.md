@@ -12,3 +12,6 @@ The ExperimentGUI folder contains the following:
 - openai_interact_profile.py and openai_interact_rewrite.py define the PROFILER and REWRITE GPT-4 models referenced in Figure 1 of the paper, respectively. Each of these codes contains the relevant User and System message(s) that define the behavior of each model.
 - GUI.py is the main code for the graphical user interface. This code references the Icons folder, input_paragraphs.csv, instructions.txt, openai_interact_profile.py, and openai_interact_rewrite.py. These files must be in the same directory for this code to run properly.
 - Note that running the code (without modifications) will require you to have an OpenAI API key.
+
+------
+This material is based upon work supported by the National Science Foundation under Grant Number 2120888. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
