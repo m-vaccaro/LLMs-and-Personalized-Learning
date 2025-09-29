@@ -2,6 +2,8 @@
 
 Use of the codes, files, or paragraphs presented here in any future works must reference the latest published version of the paper by Vaccaro, Friday, and Zaghi.
 
+Vaccaro Jr, M., Friday, M., & Zaghi, A. (2025). Multi-Agentic LLMs for Personalizing STEM Texts. Applied Sciences, 15(13), 7579.
+
 ------
 This respository contains the code needed to run the experiment through the custom-designed graphical user interface (GUI). It also contains the paragraphs used in each of the text pairs for the training and test sessions in a .PDF file.
 
